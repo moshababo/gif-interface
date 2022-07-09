@@ -1,0 +1,19 @@
+{
+  "name": "gif-interface",
+  "version": "1.5.0",
+  "description": "This repository holds the necessary interfaces and base contracts to interact with an existing GIF instance. The repository is not intended to be used on its own.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moshababo/gif-interface.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moshababo/gif-interface/issues"
+  },
+  "homepage": "https://github.com/moshababo/gif-interface#readme"
+}
